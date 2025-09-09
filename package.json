@@ -3,10 +3,10 @@
   "type": "module",
   "version": "0.0.1",
   "scripts": {
-    "dev": "AI-Documentation/node_modules/.bin/astro dev",
-    "build": "AI-Documentation/node_modules/.bin/astro build",
-    "preview": "AI-Documentation/node_modules/.bin/astro preview",
-    "astro": "AI-Documentation/node_modules/.bin/astro"
+    "dev": "./node_modules/.bin/astro dev",
+    "build": "./node_modules/.bin/astro build",
+    "preview": "./node_modules/.bin/astro preview",
+    "astro": "./node_modules/.bin/astro"
   },
   "dependencies": {
     "@astrojs/mdx": "^4.3.5",
